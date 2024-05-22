@@ -1,0 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+esrgan_1S2.pth filter=lfs diff=lfs merge=lfs -text
