@@ -1,5 +1,0 @@
-
-ipyleaflet==0.17
-eemont
-rasterio
-earthpy
