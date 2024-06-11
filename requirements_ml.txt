@@ -1,0 +1,8 @@
+flask
+geemap
+ ee
+rasterio
+joblib
+numpy
+pandas
+shutil
