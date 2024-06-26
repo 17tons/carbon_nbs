@@ -1,0 +1,16 @@
+flask
+scikit-learn == 1.2.2
+ee
+joblib
+geemap
+ipywidgets
+IPython
+google
+ipywidgets
+geopandas 
+fiona
+boto3
+
+
+
+
